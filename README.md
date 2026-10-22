@@ -1,85 +1,80 @@
-# Vineet Gaira
+# 👋 Vineet Gaira
 
-### I build. I solve. I explore.
+### Build boldly. Think rigorously. Keep exploring.
 
-I turn ideas into working software, mathematical concepts into computational solutions, and curiosity into practical experiments.
+Computer Science student who builds software, explores mathematical ideas, and turns concepts into working implementations. I investigate problems, experiment with solutions, and refine my understanding through code.
 
-I'm a Computer Science student who builds projects, explores programming languages, and investigates the logic behind the systems I use. I move between theory and implementation—breaking problems down, testing approaches, and refining solutions until they work.
-
-<p align="center">
-  <a href="https://github.com/vineetgaira">GitHub</a> ·
-  <a href="https://x.com/VineetGaira">X / Twitter</a> ·
-  <a href="mailto:vineetgaira1729@gmail.com">Email</a>
-</p>
+\<p align="center">
+&#x20; \<a href="[https://github.com/vineetgaira](https://github.com/vineetgaira)">\<img src="[https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)" alt="GitHub" />\</a>
+&#x20; \<a href="[https://x.com/VineetGaira](https://x.com/VineetGaira)">\<img src="[https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white](https://img.shields.io/badge/X-000000?style=flat-square\&logo=x\&logoColor=white)" alt="X" />\</a>
+&#x20; \<a href="mailto\:vineetgaira1729\@gmail.com">\<img src="[https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)" alt="Email" />\</a>
+\</p>
 
 ---
 
-## What Drives My Work
-
-- **Build** software that turns ideas into usable tools.
-- **Investigate** how algorithms, systems, and technologies work beneath the surface.
-- **Implement** mathematical concepts through code and numerical methods.
-- **Experiment** with different approaches, measure results, and challenge assumptions.
-- **Refine** solutions for correctness, clarity, and maintainability.
-- **Explore** unfamiliar technologies and expand my technical range through hands-on work.
-
-## Technologies I Work With
+## ⚡ Tech Stack
 
 **Languages**
 
-Python · Java · C · C++ · Rust
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)" alt="Python" />
+&#x20; \<img src="[https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)" alt="Java" />
+&#x20; \<img src="[https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)" alt="C" />
+&#x20; \<img src="[https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)" alt="C++" />
+&#x20; \<img src="[https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white](https://img.shields.io/badge/Rust-000000?style=flat-square\&logo=rust\&logoColor=white)" alt="Rust" />
+\</p>
 
-**Tools**
+**Tools & Development**
 
-Git · GitHub · Visual Studio Code · Linux
-
-**Technical Interests**
-
-Software Engineering · Algorithms · Numerical Computing · Mathematics · Systems and Developer Tools
-
----
-
-## Selected Projects
-
-### ⚙️ AndroidForge
-**Build tools. Automate workflows. Explore Android.**
-
-A project focused on Android device interaction and developer tooling.
-
-[Explore AndroidForge →](https://github.com/vineetgaira/Androidforge)
-
-### 🔐 Enigma
-**Translate ideas into logic. Turn logic into code.**
-
-A software project built around programming, experimentation, and problem-solving.
-
-[Explore Enigma →](https://github.com/vineetgaira/Enigma)
-
-### ∫ ODE_Solver
-**Transform differential equations into numerical solutions.**
-
-A Python-based numerical computing project that implements methods for solving ordinary differential equations and comparing numerical approaches.
-
-[Explore ODE_Solver →](https://github.com/vineetgaira/ODE_Solver)
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)" alt="Git" />
+&#x20; \<img src="[https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)" alt="GitHub" />
+&#x20; \<img src="[https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)" alt="VS Code" />
+&#x20; \<img src="[https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=astral&logoColor=white](https://img.shields.io/badge/uv-DE5FE9?style=flat-square\&logo=astral\&logoColor=white)" alt="uv" />
+&#x20; \<img src="[https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black](https://img.shields.io/badge/Ruff-D7FF64?style=flat-square\&logo=ruff\&logoColor=black)" alt="Ruff" />
+&#x20; \<img src="[https://img.shields.io/badge/Cargo-000000?style=flat-square&logo=rust&logoColor=white](https://img.shields.io/badge/Cargo-000000?style=flat-square\&logo=rust\&logoColor=white)" alt="Cargo" />
+&#x20; \<img src="[https://img.shields.io/badge/GCC-4A7EBB?style=flat-square&logo=gnu&logoColor=white](https://img.shields.io/badge/GCC-4A7EBB?style=flat-square\&logo=gnu\&logoColor=white)" alt="GCC" />
+&#x20; \<img src="[https://img.shields.io/badge/Clang-262D3A?style=flat-square&logo=llvm&logoColor=white](https://img.shields.io/badge/Clang-262D3A?style=flat-square\&logo=llvm\&logoColor=white)" alt="Clang" />
+&#x20; \<img src="[https://img.shields.io/badge/ADB-3DDC84?style=flat-square&logo=android&logoColor=black](https://img.shields.io/badge/ADB-3DDC84?style=flat-square\&logo=android\&logoColor=black)" alt="ADB" />
+&#x20; \<img src="[https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)" alt="Linux" />
+\</p>
 
 ---
 
-## How I Approach Problems
+## 🚀 Featured Projects
 
-**Understand → Decompose → Implement → Test → Refine**
-
-I start by identifying the underlying problem. I break it into manageable components, choose an approach, implement a solution, and test it against expected results. When it fails, I investigate why. When it works, I look for ways to improve it.
-
-I use mathematics to reason about problems, programming to express solutions, and experimentation to validate them.
+\<table>
+&#x20; \<tr>
+&#x20;   \<td width="33%" valign="top">
+&#x20;     \<h3>⚙️ AndroidForge\</h3>
+&#x20;     \<p>Explore Android device workflows and build developer tools around ADB.\</p>
+&#x20;     \<a href="[https://github.com/vineetgaira/Androidforge](https://github.com/vineetgaira/Androidforge)">↗ View Repository\</a>
+&#x20;   \</td>
+&#x20;   \<td width="33%" valign="top">
+&#x20;     \<h3>🔐 Enigma\</h3>
+&#x20;     \<p>A project driven by programming, experimentation, and problem-solving.\</p>
+&#x20;     \<a href="YOUR_ENIGMA_REPOSITORY_URL">↗ View Repository\</a>
+&#x20;   \</td>
+&#x20;   \<td width="33%" valign="top">
+&#x20;     \<h3>∫ ODE_Solver\</h3>
+&#x20;     \<p>Implement numerical methods to solve ordinary differential equations.\</p>
+&#x20;     \<a href="YOUR_ODE_SOLVER_REPOSITORY_URL">↗ View Repository\</a>
+&#x20;   \</td>
+&#x20; \</tr>
+\</table>
 
 ---
 
-## Let's Connect
+## ∑ Interests
 
-Have an interesting technical problem, an idea worth exploring, or a project that needs another contributor?
+**Mathematics** · **Algorithms** · **Numerical Computing** · **Software Engineering** · **Systems & Developer Tools**
 
-[Find me on GitHub](https://github.com/vineetgaira) · [Follow me on X](https://x.com/VineetGaira) · [Email me](mailto:vineetgaira1729@gmail.com)
+I approach problems by breaking them down, implementing solutions, testing assumptions, and refining the results.
 
-<p align="center">
-  <b>Think rigorously. Build deliberately. Improve continuously.</b>
-</p>
+---
+
+\<p align="center">
+&#x20; \<b>Understand deeply. Build deliberately. Improve continuously.\</b>
+&#x20; \<br />
+&#x20; \<sub>Open to interesting ideas, technical discussions, and collaborations.\</sub>
+\</p>
